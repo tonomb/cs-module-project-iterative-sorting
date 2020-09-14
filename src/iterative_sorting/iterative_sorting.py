@@ -28,10 +28,6 @@ def bubble_sort(arr):
     return arr
 
 
-arr1 = [1, 5, 8, 4, 2, 9, 6, 0, 3, 7]
-
-# print(selection_sort(arr1))
-print(bubble_sort(arr1))
 '''
 STRETCH: implement the Counting Sort function below
 
